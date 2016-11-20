@@ -1,0 +1,46 @@
+.profile-picture{
+	max-width: 100%;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+#navtitle{
+	margin-top:7px;
+	color:#575582;
+	font-family: 'roboto';
+}
+
+#navbutton{
+	margin-top:9px;
+	color:#575582;
+	font-family: 'roboto';
+}
+.navbar{
+	background-color: #ffffff}
+
+.card-text{
+	font-family: 'roboto';
+}
+.description {
+  background-image: url(../img/phone3.jpg);
+  background-repeat: repeat-x;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+.jumbotron {
+  background-image: url(../img/bird.jpg);
+  background-size: cover;
+  color: white;
+}
